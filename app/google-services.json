@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "490222552140",
+    "firebase_url": "https://downloader-test-f1bf4.firebaseio.com",
+    "project_id": "downloader-test-f1bf4",
+    "storage_bucket": "downloader-test-f1bf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490222552140:android:49edae9a777da0a05ce0e9",
+        "android_client_info": {
+          "package_name": "com.example.downloadertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490222552140-5k1bai3qi81e1ftf1lc1502jj5pvhkho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.downloadertest",
+            "certificate_hash": "cb29f74e127bc8351c298571d5ee0628c936cdfc"
+          }
+        },
+        {
+          "client_id": "490222552140-5tjcmp99lmv84298tge4d0q626jdc7nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFUXmP6L12MdvBpXfpa4-yD2uwu_GquHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490222552140-5tjcmp99lmv84298tge4d0q626jdc7nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
